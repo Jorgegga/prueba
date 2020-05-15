@@ -22,6 +22,8 @@ public class Git {
         // TODO code application logic here
         Git prueba = new Git();
         prueba.parimpar(2);
+        prueba.parimpar(8);
+        prueba.parimpar(7);
     }
     
 }
